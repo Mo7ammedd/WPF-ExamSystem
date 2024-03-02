@@ -1,0 +1,29 @@
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.csproj.AssemblyReference.cache
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system_MarkupCompile.cache
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.g.resources
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.AssemblyInfoInputs.cache
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.AssemblyInfo.cs
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\Exam system.exe
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\Exam system.deps.json
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\Exam system.runtimeconfig.json
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\Exam system.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\Exam system.pdb
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.csproj.CopyComplete
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\refint\Exam system.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.pdb
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\Exam system.genruntimeconfig.cache
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\ref\Exam system.dll
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\commands.g.cs
+C:\Users\Mohamed\RiderProjects\Exam system\Exam system\obj\Debug\net8.0-windows\commands.baml
