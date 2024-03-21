@@ -16,7 +16,6 @@ WPF Exam System is a Windows Presentation Foundation (WPF) application designed 
 ### Prerequisites
 
 - .NET Framework (8)
-- Visual Studio (2022)
 
 ### Installation
 
