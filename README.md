@@ -10,7 +10,6 @@ WPF Exam System is a Windows Presentation Foundation (WPF) application designed 
 - **Exam Execution:** Allow users to take exams in a controlled environment.
 - **Results and Analytics:** View and analyze exam results for better insights.
 - **User-Friendly Interface:** Intuitive design for a smooth user experience.
-
 ## Getting Started
 
 ### Prerequisites
